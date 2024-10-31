@@ -1,0 +1,13 @@
+
+
+
+.grandFather div ,.grandFather{
+    border: 2px solid tan;
+    padding: 10px;
+    margin: 10px auto;
+    
+    border-radius: 10px;
+}
+.flex{
+    display: flex;
+}
